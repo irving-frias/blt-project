@@ -11,15 +11,21 @@
         "acquia/memcache-settings": "*",
         "drupal/acquia_connector": "^1.5.0",
         "drupal/acquia_purge": "^1.0-beta3",
+        "drupal/adminimal_admin_toolbar": "^1.11",
+        "drupal/alexa": "^1.0@RC",
+        "drupal/bootstrap_barrio": "^5.1",
         "drupal/cog": "^1.0.0",
         "drupal/config_split": "^1.0.0",
         "drupal/core-composer-scaffold": "^8.8",
         "drupal/core-recommended": "^8.8.0",
         "drupal/devel": "^2.0.0",
         "drupal/features": "^3.8.0",
+        "drupal/paragraphs": "^1.12",
         "drupal/qa_accounts": "^1.0.0-alpha1",
         "drupal/seckit": "^1.0.0-alpha2",
-        "drupal/shield": "^1.2.0"
+        "drupal/shield": "^1.2.0",
+        "drupal/twig_field_value": "^2.0",
+        "drupal/twig_tweak": "^2.9"
     },
     "require-dev": {
         "acquia/blt-require-dev": "11.x-dev"
